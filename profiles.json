@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Dr. Shirley Ann Jackson",
+        "bio": "Dr. Shirley Ann Jackson was the first Black woman to earn a Ph.D. in physics from MIT in 1973. She conducted groundbreaking research in telecommunications, influencing technologies like caller ID and fiber optics. She later became the first Black woman to lead a top-ranked research university as president of Rensselaer Polytechnic Institute (RPI).",
+        "accomplishments": [
+            "First Black woman to earn a Ph.D. in physics from MIT",
+            "Developed research that contributed to caller ID and fiber optics",
+            "Served as Chair of the U.S. Nuclear Regulatory Commission",
+            "Named one of the top 50 women in STEM"
+        ],
+        "importance": "Her work has directly influenced modern communication technology, making her one of the most impactful Black women in STEM.",
+        "image": "assets/images/Shirley-Ann-Jackson.jpg",
+        "altText": "Dr. Shirley Ann Jackson wearing a suit, smiling."
+        
+    },
+    {
+        "name": "Dorothy Vaughan",
+        "bio": "Dorothy Vaughan was a pioneering mathematician and NASA’s first Black female supervisor. She played a key role in the development of early computing and became an expert in FORTRAN programming, helping NASA transition from human computers to electronic computing.",
+        "accomplishments": [
+            "First Black woman promoted to supervisor at NASA",
+            "Led a team of Black female mathematicians during racial segregation",
+            "Trained herself and her team in FORTRAN programming",
+            "Helped launch John Glenn into orbit"
+        ],
+        "importance": "Dorothy Vaughan’s work in computing helped pave the way for Black women in software engineering and computer science today.",
+        "image": "assets/images/dorothy_vaughan.png",
+        "altText": "Dorothy Vaughan in her NASA office."
+    },
+    {
+        "name": "Dr. Marie M. Daly",
+        "bio": "Dr. Marie M. Daly was the first Black woman in the U.S. to earn a Ph.D. in chemistry. Her groundbreaking research discovered the link between high cholesterol and heart disease, influencing modern medicine and dietary recommendations.",
+        "accomplishments": [
+            "First Black woman in the U.S. to earn a Ph.D. in chemistry",
+            "Discovered key links between diet, cholesterol, and heart disease",
+            "Conducted research in protein synthesis and cell biology",
+            "Established programs to support minority students in STEM"
+        ],
+        "importance": "Her work has influenced public health policies and saved lives by advancing research on cardiovascular diseases.",
+        "image": "assets/images/marie_daly.jpg",
+        "altText": "Dr. Marie M. Daly conducting an experiment."
+    },
+    {
+        "name": "Kimberly Bryant",
+        "bio": "Kimberly Bryant is an electrical engineer and the founder of Black Girls Code, an organization that teaches coding and computer science to young Black girls. After working in biotech and electrical engineering for over 20 years, she launched BGC to bridge the racial and gender gap in tech.",
+        "accomplishments": [
+            "Founded Black Girls Code, which has taught over 20,000 Black girls to code",
+            "Worked as an engineer in biotech, pharma, and electrical engineering",
+            "Named to Business Insider’s list of 'Most Influential Women in Tech'"
+        ],
+        "importance": "Her work is actively changing the landscape of tech by empowering Black girls with the skills needed to succeed in the industry.",
+        "image": "assets/images/kimberly_bryant.jpg",
+        "altText": "Kimberly Bryant powerful headshot."
+        
+    },
+    {
+        "name": "Dr. Timnit Gebru",
+        "bio": "Dr. Timnit Gebru is a leading AI ethics researcher known for her work on bias in facial recognition technology. She co-founded the Distributed AI Research Institute (DAIR) and has been a vocal advocate for ethical AI development.",
+        "accomplishments": [
+            "Exposed racial bias in facial recognition AI",
+            "Co-founded the Distributed AI Research Institute (DAIR)",
+            "Worked as a senior AI ethics researcher at Google",
+            "Named one of Time Magazine’s '100 Most Influential People in AI'"
+        ],
+        "importance": "Her research is shaping the future of ethical AI, ensuring that artificial intelligence does not reinforce racial discrimination.",
+        "image": "assets/images/timnit_gebru.jpg",
+        "altText": "Dr. Timnit Gebru speaking at a tech event."
+    },
+    {
+        "name": "Lisa Gelobter",
+        "bio": "Lisa Gelobter is a software engineer known for her contributions to web animation, streaming technology, and AI. She played a key role in developing GIF technology and led teams that built major video streaming platforms, including Hulu.",
+        "accomplishments": [
+            "Helped develop the technology behind GIFs",
+            "Played a key role in Hulu’s streaming platform",
+            "Served in the White House’s U.S. Digital Service under President Obama",
+            "Founded tEQuitable, a tech company addressing workplace bias"
+        ],
+        "importance": "Gelobter has been a pioneer in digital media, influencing how we consume content today while advocating for diversity in tech.",
+        "image": "assets/images/lisa_gelobter.jpg",
+        "altText": "Lisa Gelobter smiling."
+    }
+]

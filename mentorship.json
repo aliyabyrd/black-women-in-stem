@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Google Women Techmakers",
+        "description": "A program supporting women in tech through resources, mentorship, and networking opportunities.",
+        "link": "https://www.womentechmakers.com/"
+    },
+    {
+        "name": "Code2040 Fellows Program",
+        "description": "A program that provides Black and Latinx students with tech internships and mentorship at top companies.",
+        "link": "https://www.code2040.org/programs"
+    },
+    {
+        "name": "Microsoft Leap",
+        "description": "A career development program for underrepresented talent seeking opportunities in technology.",
+        "link": "https://www.microsoft.com/en-us/leap/"
+    },
+    {
+        "name": "Girls Who Code Summer Immersion Program",
+        "description": "A summer program designed to teach young women coding skills and connect them with industry mentors.",
+        "link": "https://girlswhocode.com/programs/summer-immersion-program"
+    },
+    {
+        "name": "Techstars Foundation Mentorship",
+        "description": "A mentorship program that connects women in tech with experienced industry leaders.",
+        "link": "https://www.techstars.com/accelerators"
+    }
+]

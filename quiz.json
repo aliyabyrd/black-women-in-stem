@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Who was the first Black woman to earn a Ph.D. in physics from MIT?",
+        "options": [
+            "Mae Jemison",
+            "Dr. Shirley Ann Jackson",
+            "Kimberly Bryant",
+            "Lisa Gelobter"
+        ],
+        "answer": "Dr. Shirley Ann Jackson"
+    },
+    {
+        "question": "Which NASA mathematician was featured in the book and film 'Hidden Figures'?",
+        "options": [
+            "Dorothy Vaughan",
+            "Marie Daly",
+            "Kimberly Bryant",
+            "Timnit Gebru"
+        ],
+        "answer": "Dorothy Vaughan"
+    },
+    {
+        "question": "Who founded Black Girls Code?",
+        "options": [
+            "Kimberly Bryant",
+            "Dr. Shirley Ann Jackson",
+            "Lisa Gelobter",
+            "Dorothy Vaughan"
+        ],
+        "answer": "Kimberly Bryant"
+    },
+    {
+        "question": "Which scientist linked high cholesterol to heart disease?",
+        "options": [
+            "Marie Daly",
+            "Lisa Gelobter",
+            "Timnit Gebru",
+            "Dorothy Vaughan"
+        ],
+        "answer": "Marie Daly"
+    },
+    {
+        "question": "Who exposed racial bias in AI facial recognition?",
+        "options": [
+            "Timnit Gebru",
+            "Kimberly Bryant",
+            "Lisa Gelobter",
+            "Dr. Shirley Ann Jackson"
+        ],
+        "answer": "Timnit Gebru"
+    }
+]
